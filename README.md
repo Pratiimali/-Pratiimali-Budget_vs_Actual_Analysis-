@@ -4,9 +4,9 @@
 This project provides a "Budget vs Actual analysis" with an interactive Excel dashboard and a Word report. It helps understand financial performance by comparing actual expenses against the budgeted values.
 
 🚀 Key Features
-📈 Interactive Excel Dashboard** – Visual insights through bar charts, pie charts, and variance analysis.
-📊 Variance Calculation** – Identifies over-budget and under-budget areas.
-📃 Detailed Report** – Key insights, trend analysis, and actionable recommendations.
+📈 Interactive Excel Dashboard – Visual insights through bar charts, pie charts, and variance analysis.
+📊 Variance Calculation – Identifies over-budget and under-budget areas.
+📃 Detailed Report – Key insights, trend analysis, and actionable recommendations.
 
 🛠️ Tools & Technologies
 - Microsoft Excel – Data analysis, pivot tables, and visualization.
@@ -26,7 +26,5 @@ This project provides a "Budget vs Actual analysis" with an interactive Excel da
 📬 Contributing
 If you find this project useful, feel free to star ⭐ the repository and contribute improvements!
 
-📄 License
-This project is released under the **MIT License**.
 
 🔗 View the Repository: [https://github.com/Pratiimali/Budget_vs_Actual_Analysis](https://github.com/Pratiimali/-Pratiimali-Budget_vs_Actual_Analysis)]
