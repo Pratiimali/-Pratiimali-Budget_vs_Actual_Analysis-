@@ -27,4 +27,4 @@ This project provides a "Budget vs Actual analysis" with an interactive Excel da
 If you find this project useful, feel free to star ⭐ the repository and contribute improvements!
 
 
-🔗 View the Repository: [https://github.com/Pratiimali/Budget_vs_Actual_Analysis](https://github.com/Pratiimali/-Pratiimali-Budget_vs_Actual_Analysis)]
+🔗 View the Repository: https://github.com/Pratiimali/Budget_vs_Actual_Analysis-
